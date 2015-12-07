@@ -1,0 +1,26 @@
+		h1{
+			font-family: 'Montserrat', sans-serif;
+			color: #ffff99;
+			text-align: center;
+		}
+
+		p{
+			color: white;
+		}
+
+	    body{
+	    	background-color: black;
+	    }
+		img{
+			position:absolute;
+		}
+
+		div{width:500px;
+		    height:500px;
+		    position: absolute;
+		}
+
+		#rightSide {
+			left: 500px; 
+			border-left: 1px solid orange; 
+		}
